@@ -1,0 +1,7 @@
+C:\Csharp\RegexDemostration\bin\Debug\RegexDemostration.exe.config
+C:\Csharp\RegexDemostration\bin\Debug\RegexDemostration.exe
+C:\Csharp\RegexDemostration\bin\Debug\RegexDemostration.pdb
+C:\Csharp\RegexDemostration\obj\Debug\RegexDemostration.csproj.AssemblyReference.cache
+C:\Csharp\RegexDemostration\obj\Debug\RegexDemostration.csproj.CoreCompileInputs.cache
+C:\Csharp\RegexDemostration\obj\Debug\RegexDemostration.exe
+C:\Csharp\RegexDemostration\obj\Debug\RegexDemostration.pdb
